@@ -1,0 +1,20 @@
+
+# large artifacts
+*.h5
+/data/*.h5
+
+# artifacts
+*.h5
+/data/*.h5
+
+# large artifacts
+*.h5
+/data/*.h5
+
+# large artifacts
+*.h5
+data/*.h5
+
+# large artifacts
+*.h5
+data/*.h5
